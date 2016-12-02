@@ -11,3 +11,11 @@ trials, which one study found to be associated with a ~9 OR.
 Should we insist on being ACLS-certified?
 
 
+## 2.
+
+Link with serotonergic knockout mice.
+
+Spreading depression and brainstem nuclei. DC shifts in brainstem with loss of
+cardiac and respiratory activity.
+
+
