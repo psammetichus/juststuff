@@ -22,3 +22,8 @@ There are:
 Epilepsy phenome-genome project.
 
 
+# 3.
+
+Genetics. DEPDC5, GRIN2A, SCN8A, SCN1A, KCNT1, etc.
+
+
